@@ -119,20 +119,20 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agnic Ai Authentication](https://apis.io/security/agnic-ai/agnic-ai-authentication/)
-- [Agnic Ai Domain Security](https://apis.io/security/agnic-ai/agnic-ai-domain-security/)
+- [Agnic Authentication](https://apis.io/security/agnic-ai/agnic-ai-authentication/)
+- [Agnic Domain Security](https://apis.io/security/agnic-ai/agnic-ai-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Agnic Ai Plans Pricing](https://apis.io/plans/agnic-ai/agnic-ai-plans-pricing/)
+- [Agnic Plans Pricing](https://apis.io/plans/agnic-ai/agnic-ai-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Agnic Ai Rate Limits](https://apis.io/rate-limits/agnic-ai/agnic-ai-rate-limits/)
+- [Agnic Rate Limits](https://apis.io/rate-limits/agnic-ai/agnic-ai-rate-limits/)
 
 ## Where to find this API
 
@@ -147,18 +147,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 51.3** — developing · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 38.9** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 71.4 |
-| Contract quality | 55.7 |
-| Contract governance | 79.1 |
-| Operational transparency | 44.2 |
+| Discoverability | 78.6 |
+| Contract quality | 26.1 |
+| Contract governance | 35.6 |
+| Operational transparency | 42.9 |
 | Developer ergonomics | 59.5 |
-| Access clarity | 18.9 |
+| Access clarity | 17.0 |
 
-**Agent readiness 45.8** — agent-ready (gated down from agent-native)
+**Agent readiness 42.2** — agent-ready (gated down from agent-native)
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -173,7 +173,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | documented (partial credit) |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | yes |
+| Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -183,6 +183,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | paginated |
 | Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 15.2** — Payments
 
